@@ -1,1 +1,0 @@
-val exception = 1 / 0
